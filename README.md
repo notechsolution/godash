@@ -55,7 +55,7 @@
   - [ ]  _.isMatchWith
   - [ ]  _.isNative
   - [ ]  _.isNil
-  - [ ]  _.isNumber
+  - [x]  _.isNumber
   - [ ]  _.isObject
   - [ ]  _.isObjectLike
   - [ ]  _.isPlainObject
