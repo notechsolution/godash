@@ -87,4 +87,4 @@
 ## How to contribute it
 ## Contributor
 ## License
-
+*Godash* is distributed under the terms of the [MIT License](https://github.com/notechsolution/godash/blob/master/LICENSE) 
