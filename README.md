@@ -4,7 +4,36 @@
 > Another [Lodash](https://lodash.com)  follower in Golang. Which want to provide some feasibility for you in Go just as you play in javascript with [Lodash](https://lodash.com) 
 
 ## API List Road Map
-
+- [ ] Lang
+  - [ ]  _.isEqual
+  - [ ]  _.isEqualWith
+  - [x]  _.isNumber
+  - [ ]  _.isArray
+  - [ ]  _.isDate
+  - [ ]  _.isError
+  - [ ]  _.isFunction
+  - [ ]  _.isInteger
+  - [ ]  _.isLength
+  - [ ]  _.isMap
+  - [ ]  _.isMatch
+  - [ ]  _.isMatchWith
+  - [ ]  _.isNative
+  - [ ]  _.isNil
+  - [ ]  _.isRegExp
+  - [ ]  _.isSafeInteger
+  - [ ]  _.isSet
+  - [ ]  _.isString
+  - [ ]  _.isSymbol
+  - [ ]  _.isTypedArray
+  - [ ]  _.isUndefined
+  - [ ]  _.lt
+  - [ ]  _.lte
+  - [ ]  _.toArray
+  - [ ]  _.toInteger
+  - [ ]  _.toLength
+  - [ ]  _.toNumber
+  - [ ]  _.toSafeInteger
+  - [ ]  _.toString
 - [ ]  Collections
   - [ ]  _.countBy
   - [ ]  _.every
@@ -30,54 +59,7 @@
   - [ ] _.size
   - [ ] _.some
   - [ ] _.sortBy  
-- [ ] Lang
-  - [ ]  _.eq
-  - [ ]  _.gt
-  - [ ]  _.gte
-  - [ ]  _.isArguments
-  - [ ]  _.isArray
-  - [ ]  _.isArrayBuffer
-  - [ ]  _.isArrayLike
-  - [ ]  _.isArrayLikeObject
-  - [ ]  _.isBoolean
-  - [ ]  _.isBuffer
-  - [ ]  _.isDate
-  - [ ]  _.isElement
-  - [ ]  _.isEmpty
-  - [ ]  _.isEqual
-  - [ ]  _.isEqualWith
-  - [ ]  _.isError
-  - [ ]  _.isFunction
-  - [ ]  _.isInteger
-  - [ ]  _.isLength
-  - [ ]  _.isMap
-  - [ ]  _.isMatch
-  - [ ]  _.isMatchWith
-  - [ ]  _.isNative
-  - [ ]  _.isNil
-  - [ ]  _.isNumber
-  - [ ]  _.isObject
-  - [ ]  _.isObjectLike
-  - [ ]  _.isPlainObject
-  - [ ]  _.isRegExp
-  - [ ]  _.isSafeInteger
-  - [ ]  _.isSet
-  - [ ]  _.isString
-  - [ ]  _.isSymbol
-  - [ ]  _.isTypedArray
-  - [ ]  _.isUndefined
-  - [ ]  _.isWeakMap
-  - [ ]  _.isWeakSet
-  - [ ]  _.lt
-  - [ ]  _.lte
-  - [ ]  _.toArray
-  - [ ]  _.toFinite
-  - [ ]  _.toInteger
-  - [ ]  _.toLength
-  - [ ]  _.toNumber
-  - [ ]  _.toPlainObject
-  - [ ]  _.toSafeInteger
-  - [ ]  _.toString
+
 - [ ] Math
 - [ ] Number
 - [ ] Object

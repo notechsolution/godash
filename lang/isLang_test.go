@@ -1,6 +1,9 @@
 package lo
 
-import "testing"
+import (
+	"testing"
+	"fmt"
+)
 
 func TestIsNumberWithString(t *testing.T) {
 	result := IsNumber("hello");
